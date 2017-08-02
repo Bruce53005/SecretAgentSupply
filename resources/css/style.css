@@ -86,10 +86,10 @@ a{
   height: 9rem;
   margin: 2rem auto;
 }
-.large-png{
-  width: 11rem;
-  height: auto !important;
-  margin: auto !important;
+img.large-png {
+  width: 12rem;
+  height: auto;
+  margin: auto;
 }
 .product p{
   padding: .5rem 0 .5rem 0;
